@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.phonegap.example2"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>HATAY Tanıtımı  E-kitap</name>
+
+  <description>
+     E-KİTAP DENEME ...
+  </description>
+
+  <author href="hatayfenlisesi.meb.k12.tr" email="pegasusiso@gmail.com">
+      Orçun Madran
+  </author>
+    
+  <icon src="icon.png" />
+
+</widget>
